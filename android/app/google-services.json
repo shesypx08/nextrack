@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740041612890",
+    "project_id": "nextrack-e6f6d",
+    "storage_bucket": "nextrack-e6f6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740041612890:android:c825b5bd7eeed4d34d8263",
+        "android_client_info": {
+          "package_name": "com.example.nextrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_g7W2vXuQPVUuERQrejqiC4qMtPSHsfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
